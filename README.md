@@ -13,8 +13,13 @@ I'm **Amrapali Samanta**, a passionate data enthusiast with a wealth of experien
   - **Business Technology Analyst** at Deloitte USI
   - **Test Analyst** at Infosys Limited
 
-- 📊 **Projects:**
-- Project Repositories listed below
+- 📊 **Key Projects:**
+- https://github.com/Amrapali03/Heart-Failure-Prediction
+- https://github.com/Amrapali03/Analysis-of-Influence-Unfunded-Aid-on-Enrollment
+- https://github.com/Amrapali03/Interactive-End-to-end-Retail-Business-Intelligence-Project
+- https://github.com/Amrapali03/University-predictive-Enrollment-Dynamics-Project
+- https://github.com/Amrapali03/HR-Attrition-Dashboard
+- https://github.com/Amrapali03/Housing-price-prediction-Python-
 
 - 📜 **Certifications:** 
   - Introduction to Data Analytics - IBM
