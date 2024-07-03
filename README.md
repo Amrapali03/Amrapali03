@@ -1,16 +1,55 @@
 ## Hi there 👋
 
-<!--
-**Amrapali03/Amrapali03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Amrapali Samanta**, a passionate data enthusiast with a wealth of experience in data analytics and machine learning. With a solid background in programming and databases, I love leveraging data to drive insights and innovation. 
 
-Here are some ideas to get you started:
+### 🌟 About Me
+- 🎓 **Education:** 
+  - Master of Science in Business Analytics from Seattle University (GPA 3.9)
+  - Bachelor of Technology in Electronics and Communication Engineering from Maulana Abul Kalam Azad University of Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 **Professional Experience:** 
+  - **Procurement Admin & Analyst** at Seattle University
+  - **Senior Analyst - Lead** at Accenture
+  - **Business Technology Analyst** at Deloitte USI
+  - **Test Analyst** at Infosys Limited
+
+- 📊 **Projects:** 
+  - **Heart Failure Prediction:** Predicting heart disease using various models based on demographic and clinical data.
+  - **Predictive University Enrollment Dynamics:** Analyzing the influence of unfunded aid on enrollment using Python and Tableau.
+  - **Business Intelligence for Retail Venture:** Leveraging data-driven insights for marketing and product decisions.
+  - **Amazon Ads Analysis:** Modeling optimal bidding strategies to maximize impressions and reach.
+
+- 📜 **Certifications:** 
+  - Introduction to Data Analytics - IBM
+  - Supervised Machine Learning - Stanford
+  - Regression and Classification - Stanford
+  - Advanced Learning Algorithms - Stanford
+  - Mathematics for Machine Learning and Data Science Specialization - Deeplearning.ai
+
+### 🛠️ Skills
+- **Programming Languages:** SQL (Advanced), Python (Advanced), R (Intermediate), SAS (Basic)
+- **Databases:** MS SQL, Oracle, Teradata, PostgreSQL, MySQL
+- **Tools:** Excel, Power BI, Tableau, Git, VSCode, JIRA, Informatica PowerCenter
+
+### 🌱 I’m currently learning
+- Deepening my knowledge in advanced machine learning algorithms and data science methodologies.
+
+### 👯 I’m looking to collaborate on
+- Data science and machine learning projects that drive impactful insights and innovations.
+
+### 💬 Ask me about
+- Data analytics, machine learning, business intelligence, and data visualization.
+
+### 📫 How to reach me
+- **Email:** titli27031993@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- **GitHub:** [GitHub Profile](https://github.com/Amrapali03)
+
+### 😄 Pronouns
+- She/Her
+
+### ⚡ Fun fact
+- I have presented papers at international conferences like ICID Japan, ICBASS Japan, and IACIS US.
+
+Thanks for visiting my profile! Let's connect and explore the world of data together.
+
