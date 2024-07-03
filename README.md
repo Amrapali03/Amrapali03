@@ -29,7 +29,7 @@ I'm **Amrapali Samanta**, a passionate data enthusiast with a wealth of experien
 - **Tools:** Excel, Power BI, Tableau, Git, VSCode, JIRA, Informatica PowerCenter
 
 ### 🌱 I’m currently learning
-- Deepening my knowledge in advanced machine learning algorithms and data science methodologies.
+- Deepening my knowledge in advanced deep learning algorithms, Generative AI, LLMs and emerging data science methodologies.
 
 ### 👯 I’m looking to collaborate on
 - Data science and machine learning projects that drive impactful insights and innovations.
@@ -37,16 +37,11 @@ I'm **Amrapali Samanta**, a passionate data enthusiast with a wealth of experien
 ### 💬 Ask me about
 - Data analytics, machine learning, business intelligence, and data visualization.
 
-### 📫 How to reach me
-- **Email:** titli27031993@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **GitHub:** [GitHub Profile](https://github.com/Amrapali03)
+### ⚡ Additional fact
+- Accepted abstract and paper for presentation at international conferences like ICID Japan, ICBASS Japan, and IACIS US.
 
-### 😄 Pronouns
-- She/Her
-
-### ⚡ Fun fact
-- I have presented papers at international conferences like ICID Japan, ICBASS Japan, and IACIS US.
+### Fun fact
+I love creativity and cooking, hence I can also make good recipes with data. :-D
 
 Thanks for visiting my profile! Let's connect and explore the world of data together.
 
