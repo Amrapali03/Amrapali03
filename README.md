@@ -13,11 +13,8 @@ I'm **Amrapali Samanta**, a passionate data enthusiast with a wealth of experien
   - **Business Technology Analyst** at Deloitte USI
   - **Test Analyst** at Infosys Limited
 
-- 📊 **Projects:** 
-  - **Heart Failure Prediction:** Predicting heart disease using various models based on demographic and clinical data.
-  - **Predictive University Enrollment Dynamics:** Analyzing the influence of unfunded aid on enrollment using Python and Tableau.
-  - **Business Intelligence for Retail Venture:** Leveraging data-driven insights for marketing and product decisions.
-  - **Amazon Ads Analysis:** Modeling optimal bidding strategies to maximize impressions and reach.
+- 📊 **Projects:**
+- Project Repositories listed below
 
 - 📜 **Certifications:** 
   - Introduction to Data Analytics - IBM
