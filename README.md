@@ -1,4 +1,5 @@
 ## Hi there 👋
+![image](https://github.com/Amrapali03/Amrapali03/assets/114306627/37ac1b5c-d6e3-445c-9f52-3bee85e04a2e)
 
 I'm **Amrapali Samanta**, a passionate data enthusiast with a wealth of experience in data analytics and machine learning. With a solid background in programming and databases, I love leveraging data to drive insights and innovation. 
 
