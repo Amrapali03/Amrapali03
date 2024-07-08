@@ -24,7 +24,7 @@ Download Resume from this link:
 - https://github.com/Amrapali03/Interactive-End-to-end-Retail-Business-Intelligence-Project
 - https://github.com/Amrapali03/University-predictive-Enrollment-Dynamics-Project
 - https://github.com/Amrapali03/HR-Attrition-Dashboard
-- [https://github.com/Amrapali03/Housing-price-prediction-Python-](https://github.com/Amrapali03/Amazon-Ads-Project-SU)
+- https://github.com/Amrapali03/Amazon-Ads-Project-SU
 
 - 📜 **Certifications:** 
   - Introduction to Data Analytics - IBM
