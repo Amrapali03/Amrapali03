@@ -3,7 +3,7 @@
 
 I'm **Amrapali Samanta**, a passionate data enthusiast with a wealth of experience in data analytics and machine learning. With a solid background in programming and databases, I love leveraging data to drive insights and innovation. 
 
-### Resume:
+### RESUME:
 Download Resume from this link:
 https://hereisamrapali.notion.site/Amrapali-Samanta-Resume-7f135dfc41c04e85aeeb534c4a9ff0b6?pvs=4
 
@@ -18,7 +18,7 @@ https://hereisamrapali.notion.site/Amrapali-Samanta-Resume-7f135dfc41c04e85aeeb5
   - **Business Technology Analyst** at Deloitte USI
   - **Test Analyst** at Infosys Limited
 
-- 📊 **Key Projects:**
+- 📊 **Relevant Projects:**
 - https://github.com/Amrapali03/Heart-Failure-Prediction
 - https://github.com/Amrapali03/Analysis-of-Influence-Unfunded-Aid-on-Enrollment
 - https://github.com/Amrapali03/Interactive-End-to-end-Retail-Business-Intelligence-Project
