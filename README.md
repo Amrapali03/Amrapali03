@@ -7,9 +7,14 @@ Download Resume from this link:
 https://hereisamrapali.notion.site/Amrapali-Samanta-Resume-7f135dfc41c04e85aeeb534c4a9ff0b6
 
 ### 🌟 About Me
+- Skills:**
+Programming Languages: SQL(Advanced), Python(Numpy, Pandas, Scikit-Learn, TensorFlow, Matplotlib), R(GGPlot), SAS(Basic) Databases: MS SQL, Oracle, Teradata, PostgreSQL, MySQL
+Tools: Excel, Power BI, Tableau, Git, VSCode, JIRA, Informatica PowerCenter, AWS
+
 - 🎓 **Education:** 
   - Master of Science in Business Analytics from Seattle University (GPA 3.9)
   - Bachelor of Technology in Electronics and Communication Engineering from Maulana Abul Kalam Azad University of Technology
+
 
 - 💼 **Professional Experience:** 
   - **Procurement Admin & Analyst** at Seattle University
