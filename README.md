@@ -6,12 +6,12 @@ I'm **Amrapali Samanta**, a passionate data enthusiast with a wealth of experien
 Download Resume from this link:
 https://hereisamrapali.notion.site/Amrapali-Samanta-Resume-7f135dfc41c04e85aeeb534c4a9ff0b6
 
-### 🌟 About Me
-- Skills:**
+### 🛠️ Skills
   - Programming Languages: SQL(Advanced), Python(Numpy, Pandas, Scikit-Learn, TensorFlow, Matplotlib), R(GGPlot), SAS(Basic)
   - Databases: MS SQL, Oracle, Teradata, PostgreSQL, MySQL
   - Tools: Excel, Power BI, Tableau, Git, VSCode, JIRA, Informatica PowerCenter, AWS
 
+### 🌟 About Me
 - 🎓 **Education:** 
   - Master of Science in Business Analytics from Seattle University (GPA 3.9)
   - Bachelor of Technology in Electronics and Communication Engineering from Maulana Abul Kalam Azad University of Technology
@@ -49,11 +49,6 @@ This is an extensive analysis of 8 Classification techniques.
   - Regression and Classification - Stanford
   - Advanced Learning Algorithms - Stanford
   - Mathematics for Machine Learning and Data Science Specialization - Deeplearning.ai
-
-### 🛠️ Skills
-- **Programming Languages:** SQL (Advanced), Python (Advanced), R (Intermediate), SAS (Basic)
-- **Databases:** MS SQL, Oracle, Teradata, PostgreSQL, MySQL
-- **Tools:** Excel, Power BI, Tableau, Git, VSCode, JIRA, Informatica PowerCenter
 
 ### 🌱 I’m currently learning
 - Deepening my knowledge in advanced deep learning algorithms, Generative AI, LLMs and emerging data science methodologies.
