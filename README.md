@@ -24,12 +24,24 @@ https://hereisamrapali.notion.site/Amrapali-Samanta-Resume-7f135dfc41c04e85aeeb5
   - **Test Analyst** at Infosys Limited
 
 - 📊 **Relevant Projects:**
-- https://github.com/Amrapali03/Heart-Failure-Prediction
-- https://github.com/Amrapali03/Analysis-of-Influence-Unfunded-Aid-on-Enrollment
-- https://github.com/Amrapali03/Interactive-End-to-end-Retail-Business-Intelligence-Project
-- https://github.com/Amrapali03/University-predictive-Enrollment-Dynamics-Project
-- https://github.com/Amrapali03/HR-Attrition-Dashboard
-- https://github.com/Amrapali03/Amazon-Ads-Project-SU
+- https://github.com/Amrapali03/Heart-Failure-Prediction:
+- In this Exploratory Data Analysis (EDA) and a variety of Model Classifications including Logistic Regression (LR), Support Vector Machine (SVM), AdaBoosting (AB), GradientBoosting (GB), K-Nearest Neighbors (KNN), Random Forest (RF), Decision Tree (DT), XGBoost (XGB), this study will examine the dataset named as "Heart Failure Prediction". In this study respectively, We have tried to a predict classification problem in the Heart Disease Dataset by a variety of models to classify Heart Disease predictions in the context of determining whether anybody is likely to get heart disease based on input parameters like gender, age, and various test results or not.
+This is an extensive analysis of 8 Classification techniques.
+
+- https://github.com/Amrapali03/Analysis-of-Influence-Unfunded-Aid-on-Enrollment:
+- The Unfunded Aid Project is an analytical study conducted to understand the impact of unfunded aid on student enrollment decisions at a higher education institution. The primary goal is to determine if offering unfunded aid at the time of admission significantly influences applicants to accept and enroll. This project leverages a dataset from 2020 to explore enrollment patterns based on various demographics such as citizenship, gender, and race.
+  
+- https://github.com/Amrapali03/Interactive-End-to-end-Retail-Business-Intelligence-Project:
+- This project aims to leverage data-driven insights to make informed marketing and product decisions through a centralized data warehouse to integrate data from various sources, understand customer behavior, and improve retention and repeat purchases. MySQL operational database created by forward engineering from ER model. Data is loaded into the database from CSV files, cleansed, and transformed using CloverDX ETL processes, and then moved to an AWS Amazon RDS. Utilized Python libraries and Streamlit to create a dynamic web interface that allows users to execute analytical SQL queries, visualize results, and interact with the data. Tableau dashboard was created for data visualization for users and stakeholders.
+  
+- https://github.com/Amrapali03/University-predictive-Enrollment-Dynamics-Project:
+- This project, titled "Decoding Enrollment Dynamics: Unveiling Trends and Drivers of Student Matriculation," provides a comprehensive analysis of student enrollment trends and factors influencing matriculation decisions at Albers over the past four years. Our team utilized data analysis and predictive modeling to understand the dynamics of student enrollment and to forecast future enrollment patterns.
+
+- https://github.com/Amrapali03/HR-Attrition-Dashboard:
+- This is a Tableau dashboard with 3 tabs representing interactive features for HR to decide om the factors responsible for the attrition rate in the company.
+
+- https://github.com/Amrapali03/Amazon-Ads-Project-SU:
+- The project involves analyzing an advertising campaign dataset to model optimal bidding strategies, especially for new-to-brand. With exploratory data analysis using Pandas and Numpy, and models like Linear regression, and Gradient Boosting/Random Forest Regressor, we identified the most important features influencing cost and impressions.
 
 - 📜 **Certifications:** 
   - Introduction to Data Analytics - IBM
