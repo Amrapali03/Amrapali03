@@ -1,6 +1,6 @@
 ## Hi there 👋 :-)
 
-I'm **Amrapali Samanta**, a passionate data enthusiast with a wealth of experience in data analytics and machine learning. With a solid background in programming and databases, I love leveraging data to drive insights and innovation. 
+I'm **Amrapali Samanta**, a passionate data enthusiast with a wealth of experience in data analytics and machine learning. With a solid background in programming and databases, I love leveraging data to drive insights and innovation. in/amrapali-samanta
 
 ### Up-to-date RESUME:
 Download Resume from this link:
