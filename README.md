@@ -20,21 +20,16 @@ https://hereisamrapali.notion.site/Amrapali-Samanta-Resume-7f135dfc41c04e85aeeb5
 
 - 💼 **Professional Experience:** 
   - **Procurement Admin & Analyst** at Seattle University
-  -   Utilized Tableau and Advanced Excel functions for analysis and visualization of quarterly financial reports, enabling university stakeholders to make data-driven decisions, which increased diverse vendor engagement by 20%.
   - **Senior Analyst - Lead** at Accenture
-  -   Spearheaded the technical roadmap and requirements through effective communication with stakeholders and cross-functional collaboration in an Agile setting, contributing to two successful project releases, which generated an annual revenue of $4.2 million for Bank of America.
-      Mentored and managed a team of four, overseeing tasks, providing query support, and providing sign-offs to lead the bank’s global-scale data migration project from Teradata/Oracle to Hive, achieving a successful 98% uptime and eliminating the need for lineage technologies.
-      Reduced regression effort by 80% Analyzed financial data with advanced SQL and initiated an automation framework.
-
   - **Business Technology Analyst** at Deloitte USI
   - **Test Analyst** at Infosys Limited
 
 - 📊 **Relevant Projects:**
-- https://github.com/Amrapali03/Heart-Failure-Prediction:
+- Heart Failure Prediction: https://github.com/Amrapali03/Heart-Failure-Prediction:
 - This study aims to predict the accuracy of demographic and clinical factors leading to heart disease using various machine-learning models. Conducted a thorough exploratory analysis including skewness and kurtosis, dummy encoding of categorical variables, feature scaling, cross-validations, feature importance, and validated the evaluation metrics. Visual comparisons of model results guided selection for optimal heart disease prediction with the GradientBoosting model providing an accuracy of 91.9%. We have tried to a predict classification problem in the Heart Disease Dataset by a variety of models to classify Heart Disease predictions in the context of determining whether anybody is likely to get heart disease based on input parameters like gender, age, and various test results or not.
 This is an extensive analysis of 8 Classification techniques.
   
-- https://github.com/Amrapali03/Interactive-End-to-end-Retail-Business-Intelligence-Project:
+- Retail Business Intelligence Project: https://github.com/Amrapali03/Interactive-End-to-end-Retail-Business-Intelligence-Project:
 - This project aims to leverage data-driven insights to make informed marketing and product decisions through a centralized data warehouse to integrate data from various sources, understand customer behavior, and improve retention and repeat purchases. MySQL operational database created by forward engineering from ER model. Data is loaded into the database from CSV files, cleansed, and transformed using CloverDX ETL processes, and then moved to an AWS Amazon RDS. Utilized Python libraries and Streamlit to create a dynamic web interface that allows users to execute analytical SQL queries, visualize results, and interact with the data. Tableau dashboard was created for data visualization for users and stakeholders.
   
 - https://github.com/Amrapali03/Predictive-University-Enrollment-Dynamics-And-Influence-of-Unfunded-Aid-on-Enrollment:
