@@ -20,7 +20,12 @@ https://hereisamrapali.notion.site/Amrapali-Samanta-Resume-7f135dfc41c04e85aeeb5
 
 - 💼 **Professional Experience:** 
   - **Procurement Admin & Analyst** at Seattle University
+  -   Utilized Tableau and Advanced Excel functions for analysis and visualization of quarterly financial reports, enabling university stakeholders to make data-driven decisions, which increased diverse vendor engagement by 20%.
   - **Senior Analyst - Lead** at Accenture
+  -   Spearheaded the technical roadmap and requirements through effective communication with stakeholders and cross-functional collaboration in an Agile setting, contributing to two successful project releases, which generated an annual revenue of $4.2 million for Bank of America.
+      Mentored and managed a team of four, overseeing tasks, providing query support, and providing sign-offs to lead the bank’s global-scale data migration project from Teradata/Oracle to Hive, achieving a successful 98% uptime and eliminating the need for lineage technologies.
+      Reduced regression effort by 80% Analyzed financial data with advanced SQL and initiated an automation framework.
+
   - **Business Technology Analyst** at Deloitte USI
   - **Test Analyst** at Infosys Limited
 
