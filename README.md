@@ -18,8 +18,8 @@ https://hereisamrapali.notion.site/Amrapali-Samanta-Resume-7f135dfc41c04e85aeeb5
   - Bachelor of Technology in Electronics and Communication Engineering from Maulana Abul Kalam Azad University of Technology
 
 
-- 💼 **Professional Experience:** 
-  - **Procurement Admin & Analyst** at Seattle University
+- 💼 **Past Professional Experience:** 
+  - **Procurement Admin & Analyst** at Seattle University(Part-time)
   - **Senior Analyst - Lead** at Accenture
   - **Business Technology Analyst** at Deloitte USI
   - **Test Analyst** at Infosys Limited
