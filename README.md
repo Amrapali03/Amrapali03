@@ -8,9 +8,12 @@ Download Resume from this link:
 https://hereisamrapali.notion.site/Amrapali-Samanta-Resume-7f135dfc41c04e85aeeb534c4a9ff0b6
 
 ### 🛠️ Skills
-  - Programming Languages: SQL(Advanced), Python(Numpy, Pandas, Scikit-Learn, TensorFlow, Matplotlib), R(GGPlot), SAS(Basic)
+
+  - Programming Languages: SQL(Advanced), Python(Numpy, Pandas, Scikit-Learn, PyTorch, TensorFlow, Matplotlib, Seaborn), R, SAS(Basic)
   - Databases: MS SQL, Oracle, Teradata, PostgreSQL, MySQL
-  - Tools: Excel, Power BI, Tableau, Git, VSCode, JIRA, Informatica PowerCenter, AWS
+  - Tools: Excel, Power BI, Tableau, Git, VSCode, JIRA, Jupyter, Informatica PowerCenter, AWS
+  - Data Science & Analytics Technologies: A/B testing, ETL, Hadoop, Data pipeline (cleansing, wrangling, visualization,
+modeling, interpretation), Statistics, Time series, Experimental design, Hypothesis testing
 
 ### 🌟 About Me
 - 🎓 **Education:** 
