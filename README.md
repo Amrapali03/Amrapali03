@@ -3,9 +3,13 @@
 I'm **Amrapali Samanta**, a passionate data enthusiast with a wealth of experience in data analytics and machine learning. With a solid background in programming and databases, I love leveraging data to drive insights and innovation. 
 Connect with me: https://www.linkedin.com/in/amrapali-samanta/
 
+### Portfolio:
+https://titli27031993.wixsite.com/amrapali-talks-data
+
+
 ### Up-to-date RESUME:
 Download Resume from this link:
-https://hereisamrapali.notion.site/Amrapali-Samanta-Resume-7f135dfc41c04e85aeeb534c4a9ff0b6
+https://titli27031993.wixsite.com/amrapali-talks-data/resume
 
 ### 🛠️ Skills
 
@@ -27,8 +31,6 @@ modeling, interpretation), Statistics, Time series, Experimental design, Hypothe
   - **Business Technology Analyst** at Deloitte USI
   - **Test Analyst** at Infosys Limited
 
-- 📊 **Relevant Projects:**
-My Website Link: https://titli27031993.wixsite.com/amrapali-talks-data
 
 - 📜 **Certifications:** 
   - Introduction to Data Analytics - IBM
