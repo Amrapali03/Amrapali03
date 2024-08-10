@@ -6,11 +6,6 @@ Connect with me: https://www.linkedin.com/in/amrapali-samanta/
 ### Portfolio:
 https://titli27031993.wixsite.com/amrapali-talks-data
 
-
-### Up-to-date RESUME:
-Download Resume from this link:
-https://titli27031993.wixsite.com/amrapali-talks-data/resume
-
 ### 🛠️ Skills
 
   - Programming Languages: SQL(Advanced), Python(Numpy, Pandas, Scikit-Learn, PyTorch, TensorFlow, Matplotlib, Seaborn), R, SAS(Basic)
