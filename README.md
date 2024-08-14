@@ -8,11 +8,17 @@ https://titli27031993.wixsite.com/amrapali-talks-data
 
 ### 🛠️ Skills
 
-  - Programming Languages: SQL(Advanced), Python(Numpy, Pandas, Scikit-Learn, PyTorch, TensorFlow, Matplotlib, Seaborn), R, SAS(Basic)
-  - Databases: MS SQL, Oracle, Teradata, PostgreSQL, MySQL
-  - Tools: Excel, Power BI, Tableau, Git, VSCode, JIRA, Jupyter, Informatica PowerCenter, AWS
-  - Data Science & Analytics Technologies: A/B testing, ETL, Hadoop, Data pipeline (cleansing, wrangling, visualization,
-modeling, interpretation), Statistics, Time series, Experimental design, Hypothesis testing
+- Programming Languages: SQL(Advanced), Python(Numpy, Pandas, Scikit-Learn, PyTorch, TensorFlow, Matplotlib, Seaborn), R, SAS(Basic), Spark
+
+- Databases: MS SQL, Oracle, Teradata, PostgreSQL, MySQL
+  
+- Tools: Excel, Power BI, Tableau, Git, VSCode, JIRA, Jupyter, Informatica PowerCenter, AWS
+
+- Data Science & Analytics Technologies:
+A/B testing, ETL, Hadoop, Data pipeline (cleansing, wrangling, visualization, modeling, interpretation), Statistics, Time series, Experimental design, Hypothesis testing
+
+- Leadership:
+Technical Documentation, Project Planning and Scheduling(JIRA), Resource Allocation, Agile methodology, Cross-functional team leadership, Quality Assurance, Stakeholder communication
 
 ### 🌟 About Me
 - 🎓 **Education:** 
